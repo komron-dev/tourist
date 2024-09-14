@@ -1,0 +1,11 @@
+﻿2
+356 853
+Drakónia-negyed 2
+museum 321 231 4 1982 n
+castle 264 211 10 1812 y Baxti 99
+Csillagfény-kertek 1
+castle 323 111 8 1834 n
+Kristálypalota-kerület 3
+castle 242 168 7 1810 y Komron 23
+cathedral 666 221 9 1711 y Elyor 10
+museum 356 853 4 1966 n

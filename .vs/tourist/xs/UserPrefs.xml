@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{DF4AEFFA-BF09-42BC-900D-61DB14670E31}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.tourist PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Wonder.cs">
+    <Files>
+      <File FileName="Program.cs" Line="43" Column="48" />
+      <File FileName="Wonder.cs" Line="23" Column="38" />
+      <File FileName="District.cs" Line="37" Column="14" />
+      <File FileName="City.cs" Line="54" Column="16" />
+      <File FileName="input.txt" Line="5" Column="34" />
+      <File FileName="Guide.cs" Line="10" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tourist" expanded="True">
+            <Node name="tourist" expanded="True">
+              <Node name="Wonder.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
